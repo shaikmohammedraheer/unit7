@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad56c4-6b8d-4f9c-a134-8ffccc99ce8a" name="Changes" comment="" />
+    <list default="true" id="09ad56c4-6b8d-4f9c-a134-8ffccc99ce8a" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/assignment" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,9 +35,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.endwith">
-    <configuration name="Compareat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Compareat" />
+  <component name="RunManager" selected="Application.compareat">
+    <configuration name="charat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="charat" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.compareat" />
+        <item itemvalue="Application.charat" />
         <item itemvalue="Application.endwith" />
         <item itemvalue="Application.contains" />
         <item itemvalue="Application.concat" />
-        <item itemvalue="Application.compareat" />
-        <item itemvalue="Application.Compareat" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +90,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675843216152</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1675844916320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675844916320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
