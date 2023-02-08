@@ -3,4 +3,5 @@ public class endwith{
         String s1="java by javatpoint";
         System.out.println(s1.endsWith("t"));
         System.out.println(s1.endsWith("point"));
+        System.out.println(s1.endsWith("point"));
     }}
